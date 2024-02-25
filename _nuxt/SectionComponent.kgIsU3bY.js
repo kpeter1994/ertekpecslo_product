@@ -1,0 +1,1 @@
+import{_ as s,o,c as t,a as c,r as a}from"./entry.dVeINtlQ.js";const n={},_={class:"py-12 lg:py-24 sm:py-32"},r={class:"mx-auto max-w-7xl px-6 lg:px-8"};function l(e,p){return o(),t("section",_,[c("div",r,[a(e.$slots,"default")])])}const m=s(n,[["render",l]]);export{m as _};

@@ -1,0 +1,1 @@
+import{_ as o,c as t,o as s,a as e}from"./entry.B13ZJ5xu.js";const c={},n=e("h1",null,"Blog oldal",-1),r=e("p",null,"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque commodi consectetur dolore, eos error eum ipsum magni quas totam vitae?",-1),a=[n,r];function i(l,_){return s(),t("div",null,a)}const m=o(c,[["render",i]]);export{m as default};
